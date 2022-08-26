@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/schider-info/static/css/main.30300a0a.css",
+    "main.js": "/schider-info/static/js/main.eb2c0dd8.js",
+    "static/js/787.714396d8.chunk.js": "/schider-info/static/js/787.714396d8.chunk.js",
+    "static/media/under-construction.jpg": "/schider-info/static/media/under-construction.c0cae2944d0ab367d343.jpg",
+    "static/media/nodejs-new-pantone-white.png": "/schider-info/static/media/nodejs-new-pantone-white.6e30f428d108917db76b.png",
+    "index.html": "/schider-info/index.html",
+    "main.30300a0a.css.map": "/schider-info/static/css/main.30300a0a.css.map",
+    "main.eb2c0dd8.js.map": "/schider-info/static/js/main.eb2c0dd8.js.map",
+    "787.714396d8.chunk.js.map": "/schider-info/static/js/787.714396d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30300a0a.css",
+    "static/js/main.eb2c0dd8.js"
+  ]
+}
